@@ -7,7 +7,7 @@ Checks Amazon **Buy Box** details for one ASIN or a CSV list.
 ## 1) Get the files into a single folder
 **Option A — Git (recommended):**
 ```bash
-git clone https://example.com/your-repo.git buybox-tool
+git clone https://github.com/salsa-ig/buybox-check.git buybox
 ```
 **Option B — Download ZIP:**
 - Download the project as a ZIP
