@@ -1,6 +1,6 @@
 # Amazon Buy Box Winner
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue) ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)
+![Python](https://img.shields.io/badge/Python-3%2B-blue) ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)
 
 Buy Box Checker is a tiny cross-platform tool that uses the **Rainforest API** to fetch Amazon **Buy Box** details. It prints a clean, vertical table for a single ASIN or processes a CSV and writes a tidy output file—no Amazon SP-API setup required.
 
